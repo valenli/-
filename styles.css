@@ -29,6 +29,9 @@ body {
   font-size: 18px;
   line-height: 1.9;
 }
+
+
+/* 黑色陰影圖 */
 .carousel-inner:before {
   content: "";
   position: absolute;
